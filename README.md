@@ -1,16 +1,42 @@
-## Hi there 👋
+# Abdulhakim Hamdi \[TreZone1t]
 
-<!--
-**TreZone1t/TreZone1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student | Software Developer**
 
-Here are some ideas to get you started:
+I'm a Computer Science student at E-JUST 
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [FastLang](https://github.com/fastlang-org/fastlang)
+An experimental statically typed programming language .
+
+- Lexer, parser, and AST
+- Semantic analysis and type checking
+- Compile-time macro expansion
+- CLI toolchain and standard-library components
+- Native interoperability
+
+### [getWords](https://github.com/TreZone1t/get-words)
+An AI-powered contextual dictionary built with Next.js, TypeScript, Prisma, PostgreSQL, and Gemini.
+
+## Technical Interests
+
+- Compiler construction and programming-language design
+- Rust and C++
+- Parsing, ASTs, and type systems
+- Backend architecture and APIs
+- Systems programming and developer tooling
+
+## Technologies
+
+**Languages:** Rust, C++, TypeScript, JavaScript
+
+**Backend:** Node.js, Express, PostgreSQL, MongoDB
+
+**Frontend:** React, Next.js
+
+## Connect
+
+- [GitHub](https://github.com/TreZone1t)
+- [FastLang](https://github.com/fastlang-org)
+- [LinkedIn](https://linkedin.com/in/abdulhakim-hamdi)
+- [itch.io](https://trezone1t.itch.io/)
+- Email: trezone@proton.me
